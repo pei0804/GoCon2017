@@ -31,3 +31,4 @@
 - [Kubernetes, Docker Swarmって言葉よく聞くけど実はあんまりわかってない…というエンジニアに贈る。GKE概論 - Qiita](http://qiita.com/niconegoto/items/c51e2b6ff430f26db6f6)
 - [kubernetes/client-go: Go client for Kubernetes.](https://github.com/kubernetes/client-go)
 - [goaを使ったAPI開発/api-development-with-goa // Speaker Deck](https://speakerdeck.com/decafe09/api-development-with-goa)
+- [Goをカンストさせる話](https://www.slideshare.net/moriyoshi/go-73631497)
